@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+    font-size: 40px;
+}
+
+#type {
+    font-family: Arial;
+    color: blue;
+}
+
+#fs {
+    font-style: italic;
+}
