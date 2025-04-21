@@ -1,0 +1,46 @@
+body {
+    background-color: #f8f4f2;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: #800000;
+}
+
+.btn-maroon {
+    background-color: #800000;
+    color: white;
+}
+.btn-maroon:hover {
+    background-color: #a52a2a;
+    color: white;
+}
+
+.btn-warning {
+    background-color: #f2b910 !important;
+    color: white !important;
+}
+.btn-warning:hover {
+    background-color: #f2b910 !important;
+}
+
+.table thead {
+    background-color: #b03030;
+    color: #b03030;
+    text-align: center;
+}
+
+.table tbody tr:hover {
+    background-color: #fcebea;
+    transition: 0.3s;
+}
+
+.action-buttons a {
+    margin-right: 5px;
+}
+
+footer {
+    margin-top: 40px;
+    font-size: 14px;
+    color: #888;
+}
